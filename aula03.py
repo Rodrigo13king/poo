@@ -1,5 +1,15 @@
-from aula1 import *
+from aula1 import ingresso , Vip
 
-gato01 = Animal("O Gatinho ", "Preto")
-gato01.comer()
+Ingresso = (20)
+cinemaVip = Vip (20)
+
+ingresso.imprimevalor()
+
+
+
+
+
+
+
+
 
